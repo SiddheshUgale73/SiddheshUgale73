@@ -4,7 +4,7 @@
 Aspiring Data Engineer from India 🇮🇳 | Currently Pursuing MCA | Skilled in Data Pipelines, ETL & AI-Based Solutions
 </h3>
 
-<!-- 🔥 TECH BADGES (TOP HIGHLIGHT) -->
+<!-- 🔥 TOP TECH STACK BADGES -->
 <p align="center">
   <img src="https://img.shields.io/badge/Python-orange?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Oracle-red?style=for-the-badge&logo=oracle&logoColor=white"/>
@@ -36,16 +36,55 @@ Aspiring Data Engineer from India 🇮🇳 | Currently Pursuing MCA | Skilled in
 
 ### 🛠️ Languages and Tools
 <p align="left"> 
-<a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/></a> 
-<a href="https://www.oracle.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40" height="40"/></a> 
-<a href="https://www.snowflake.com/" target="_blank"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/snowflake.svg" width="40" height="40"/></a> 
-<a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a> 
-<a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/></a> 
-<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a> 
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" height="40"/></a> 
-<a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a> 
-<a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a> 
+
+<a href="https://aws.amazon.com" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
+</a> 
+
+<a href="https://www.oracle.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40" height="40"/>
+</a> 
+
+<a href="https://www.snowflake.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/snowflake.svg" width="40" height="40"/>
+</a> 
+
+<a href="https://databricks.com/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/databricks/databricks-original.svg" width="40" height="40"/>
+</a> 
+
+<a href="https://code.visualstudio.com/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
+</a> 
+
+<a href="https://www.python.org" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+</a> 
+
+<a href="https://pandas.pydata.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
+</a> 
+
+<a href="https://www.mysql.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+</a> 
+
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
+<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" height="40"/>
+</a> 
+
+<a href="https://www.java.com" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
+</a> 
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+</a> 
+
+<a href="https://git-scm.com/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
+</a> 
+
 </p>
 
 ---
